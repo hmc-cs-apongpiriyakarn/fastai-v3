@@ -8,8 +8,8 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1OlJTPkkEuJsGKHL89RdYxcakNqdh6SFh'
-export_file_name = 'export.pkl'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1cYbT06IFaWC99J7Kf0xAvjInnQ6WQSky'
+export_file_name = 'aom.pkl'
 
 classes = ['jackson', 'gibson', 'fender']
 path = Path(__file__).parent
